@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/09/sitemap.xsd">
+<url>
+  <loc>http://www.rvstore.com/</loc>
+  <priority>1.0</priority>
+  <lastmod>2010-12-15T01:33:44-08:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.rvstore.com/camper_caravans.html</loc>
+  <priority>0.1</priority>
+  <lastmod>2010-12-15T01:33:43-08:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.rvstore.com/camper_vans.html</loc>
+  <priority>0.1</priority>
+  <lastmod>2010-12-15T01:33:43-08:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.rvstore.com/folding_campers.html</loc>
+  <priority>0.1</priority>
+  <lastmod>2010-12-15T01:33:44-08:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.rvstore.com/index.html</loc>
+  <priority>1.0</priority>
+  <lastmod>2010-12-15T01:33:44-08:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.rvstore.com/motorhomes.html</loc>
+  <priority>0.1</priority>
+  <lastmod>2010-12-15T01:33:45-08:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.rvstore.com/sitemap.html</loc>
+  <priority>0.1</priority>
+  <lastmod>2010-12-15T01:33:48-08:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.rvstore.com/travel_trailers.html</loc>
+  <priority>0.1</priority>
+  <lastmod>2010-12-15T01:33:49-08:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.rvstore.com/rvparts/</loc>
+  <priority>0.5</priority>
+  <lastmod>2010-12-14T17:36:10-08:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.rvstore.com/rvparts/specials.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2010-12-14T17:36:09-08:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.rvstore.com/rvrentals/</loc>
+  <priority>0.5</priority>
+  <lastmod>2010-06-27T00:54:04-08:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.rvstore.com/rvrepairs/</loc>
+  <priority>0.5</priority>
+  <lastmod>2010-06-27T00:55:13-08:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.rvstore.com/rvsales/</loc>
+  <priority>0.5</priority>
+  <lastmod>2010-06-27T00:56:02-08:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>

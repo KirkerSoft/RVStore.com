@@ -1,0 +1,19 @@
+BODY {
+	margin-top: 0 }
+a:link {
+	font-weight: normal;
+	color: black;
+	text-decoration: underline }
+a:visited {
+	font-weight: normal;
+	color: black;
+	text-decoration: underline }
+a:hover {
+	font-weight: bold;
+	color: #570900;
+	text-decoration: none }
+a:active {
+	font-weight: bold;
+	color: #570900;
+	text-decoration: none;
+	border: 1px solid #000000 }

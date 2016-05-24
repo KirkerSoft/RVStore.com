@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.rvstore.com/</title>
+  <link>http://www.rvstore.com/</link>
+<item>
+  <link>http://www.rvstore.com/</link>
+  <title>Travel Trailers Motorhomes Folding Campers Camper Vans Caravans - RVStore.com</title>
+  <ror:updatePeriod>week</ror:updatePeriod>
+  <ror:sortOrder>0</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>http://www.rvstore.com/camper_caravans.html</link>
+  <title>RVStore.com - Camper Caravans</title>
+  <ror:updatePeriod>week</ror:updatePeriod>
+  <ror:sortOrder>0</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>http://www.rvstore.com/camper_vans.html</link>
+  <title>RVStore.com - Camper Vans</title>
+  <ror:updatePeriod>week</ror:updatePeriod>
+  <ror:sortOrder>0</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>http://www.rvstore.com/folding_campers.html</link>
+  <title>RVStore.com - Folding Campers</title>
+  <ror:updatePeriod>week</ror:updatePeriod>
+  <ror:sortOrder>0</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>http://www.rvstore.com/index.html</link>
+  <title>Travel Trailers Motorhomes Folding Campers Camper Vans Caravans - RVStore.com</title>
+  <ror:updatePeriod>week</ror:updatePeriod>
+  <ror:sortOrder>0</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>http://www.rvstore.com/motorhomes.html</link>
+  <title>RVStore.com - Motorhomes</title>
+  <ror:updatePeriod>week</ror:updatePeriod>
+  <ror:sortOrder>0</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>http://www.rvstore.com/sitemap.html</link>
+  <title>Sitemap</title>
+  <ror:updatePeriod>week</ror:updatePeriod>
+  <ror:sortOrder>0</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>http://www.rvstore.com/travel_trailers.html</link>
+  <title>RVStore.com - Travel Trailers</title>
+  <ror:updatePeriod>week</ror:updatePeriod>
+  <ror:sortOrder>0</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>http://www.rvstore.com/rvparts/</link>
+  <title>RVStore.com - Your one stop RV Parts and Accessories Shop, Your one stop RV Parts and Accessories Shop</title>
+  <ror:updatePeriod>week</ror:updatePeriod>
+  <ror:sortOrder>0</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>http://www.rvstore.com/rvparts/specials.html</link>
+  <title></title>
+  <ror:updatePeriod>day</ror:updatePeriod>
+  <ror:sortOrder>0</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>http://www.rvstore.com/rvrentals/</link>
+  <title>RVStore.com - RV Rentals in San Francisco Oakland Bay Area of Motorhomes Ultra Light and Tent Trailers</title>
+  <ror:updatePeriod>week</ror:updatePeriod>
+  <ror:sortOrder>0</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>http://www.rvstore.com/rvrepairs/</link>
+  <title>RVStore.com - RV Repairs in Concord Pleasant Hill Walnut Creek East Bay Area of Motorhomes and Trailers</title>
+  <ror:updatePeriod>week</ror:updatePeriod>
+  <ror:sortOrder>0</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+  <link>http://www.rvstore.com/rvsales/</link>
+  <title>RVStore.com - RV Sales of Forest River Rockwood Tent Trailers</title>
+  <ror:updatePeriod>week</ror:updatePeriod>
+  <ror:sortOrder>0</ror:sortOrder>
+  <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
